@@ -82,12 +82,3 @@ Categorical filtering, null value treatment, and duplicates handling
 
 Basic plotting to validate trends
 
-
-## 🗂️ Project Structure
-
-Netflix-Analysis/
-│
-├── Netflix Analysis.ipynb         # Full notebook with 12 Q&A sections
-├── Netflix+Dataset.csv            # Raw data file
-├── assets/                        # (Optional) Chart screenshots
-└── README.md                      # This file
