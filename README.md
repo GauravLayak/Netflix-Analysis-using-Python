@@ -55,23 +55,21 @@ OR TV Show & Genre = Kids TV
 
 ## 🧰 Tools Used
 
-Python 3
-
-Pandas
-
-Seaborn & Matplotlib
-
-Jupyter Notebook
+1. Python 3
+2. Pandas
+3. Seaborn & Matplotlib
+4. Jupyter Notebook
 
 
 ## 📸 Sample Visuals
 
 content_added_by_year
+
 ![image alt](https://github.com/GauravLayak/Netflix-Analysis-using-Python/blob/423cdfb2a8f7f8331db382e214f5eab5482ad3cd/Content%20by%20Years.png)
 
 country_vs_tvshows
-![image alt](https://github.com/GauravLayak/Netflix-Analysis-using-Python/blob/423cdfb2a8f7f8331db382e214f5eab5482ad3cd/Content%20by%20Movies%20%26%20TVshows.png)
 
+![image alt](https://github.com/GauravLayak/Netflix-Analysis-using-Python/blob/423cdfb2a8f7f8331db382e214f5eab5482ad3cd/Content%20by%20Movies%20%26%20TVshows.png)
 
 
 ## 🚀 What I Learned
